@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isuru Malaka</h1>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+
 
 
 <h3 align="center">🚀 Web Developer | 📈 Digital Marketer | 💼 Online Entrepreneur</h3>
@@ -15,6 +14,10 @@
 - 📝 I regularly write articles on [https://www.linkedin.com/in/isuru-malaka/](https://www.linkedin.com/in/isuru-malaka/)
 
 - 📫 How to reach me **isumalaka@gmail.com**
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
