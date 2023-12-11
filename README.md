@@ -27,7 +27,7 @@
 <br>
 
 
-# <b><h3  Let's Connect..</h3>!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+# <h3  Let's Connect..</h3><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 
 <p align="left">
