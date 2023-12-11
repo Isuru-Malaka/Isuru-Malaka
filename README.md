@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Digihack,Adzcept**
 
-- 🌱 I’m currently learning **React ,React Native**
+- 🌱 I’m currently learning **MERN**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/isuru-malaka/](https://www.linkedin.com/in/isuru-malaka/)
 
