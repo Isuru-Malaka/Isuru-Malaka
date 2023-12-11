@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isuru Malaka</h1>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
+
 <h3 align="center">🚀 Web Developer | 📈 Digital Marketer | 💼 Online Entrepreneur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuru-malaka&label=Profile%20views&color=0e75b6&style=flat" alt="isuru-malaka" /> </p>
